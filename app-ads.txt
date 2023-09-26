@@ -1,3 +1,1 @@
-google.com, pub-1775049349947527, DIRECT, f08c47fec0942fa0
-facebook.com, 153466282541898, DIRECT, c3e20eee3f780d68
-applovin.com, 9eaf9ad6dc92d5fcn6f47c30168fb8fq, DIRECT
+google.com, pub-9866587000990784, DIRECT, f08c47fec0942fa0
